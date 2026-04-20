@@ -3,11 +3,10 @@ Version: 1.0.0
 Architecture: aarch64
 Maintainer: sengthaite@gmail.com
 Description: A hello world script
-Depends: sh
-Filename: dists/termux/extras/binary-aarch64/hello.deb
-Size: 832
-MD5Sum: 6023fc044840c506984a8263b89ece9f
-SHA1: 3a5fd1eb9481acb22728d70895def5d9246d6750
-SHA256: 0ce9aca92dfde5fd3e57bb2d7d17a5213af67098ec9ac488dc2cecfe788c7559
-SHA512: b9948ae9e15b0521c16bdcae000e376ee6b001d31785b8c61284a5a75d173afce5763f1098b25ed6de76dd26b3bdea354c1114c297ba793a21c62d400a26e611
+Filename: dists/termux/extras/binary-aarch64/hi.deb
+Size: 824
+MD5Sum: 0198684e154fd7a4f5839800ea23a73c
+SHA1: 6342c8804e0e2667dc524811ec6dcbcf6a93534d
+SHA256: 634f18a69410a6c13cff951ff876ce0bcedc69c34ed1d3028e9bab338615e031
+SHA512: 1a15d897634351e33f8a82ade56733dfe53337b0de34c22425d7b8db5bda4e86d0053d3a911110b8fec1f507476fe6746debfe3b9ca3a62f14d358bec4cafd8f
 
