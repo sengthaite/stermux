@@ -2,8 +2,8 @@
 
 termux-apt-repo --sign debs docs
 
-gpg -abs -o ./docs/Release.gpg ./docs/dists/termux/Release
+gpg -abs -o ./docs/stermux.gpg ./docs/dists/termux/Release
 
 echo "Verifying Release.gpg"
 
-gpg --verify docs/Release.gpg docs/dists/termux/Release
+gpg --verify ./docs/stermux.gpg docs/dists/termux/Release
