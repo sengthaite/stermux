@@ -1,9 +1,12 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Codename: termux
 Version: 1
 Architectures: all
 Description: termux repository
 Suite: termux
-Date: Mon, 20 Apr 2026 06:23:18 UTC
+Date: Mon, 20 Apr 2026 06:23:56 UTC
 Components: extras
 MD5Sum:
  23b22a61cbb33d9795cce79c9995212c 491 extras/binary-all/Packages
@@ -25,3 +28,17 @@ SHA512:
  1abab638eb461fe4997aa46cef020d9ff6be59e7620e11d2064aef7c24120a588fab6dca2b61d1a7d835020770101cebfd471b49d20eb15af00b990dc88473f8 444 extras/binary-all/Packages.xz
  3e60fdca6592233385fa384423cac4ba579a63191a967e53ad067e39d8fec1a7bdc3643fd61d93fb3d550867245ed17c457853d3456c8371d636f0ffeb428a1d 91 extras/Contents-all
  8a80d42a08a251908fd164dc25e8d62c755b4f16b7923cb64ab44ddc6bc52bf567c2016c6d91842d6caecfeb98d0724e977f0a62f8fd25c5b8319649068be317 128 extras/Contents-all.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQHPBAEBCAA5FiEEXMvQyvnnA4keacEXFb/t/MKj+owFAmnlxnwbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTEsMywyAAoJEBW/7fzCo/qMk1UL/01dG6ebN+FYYyDyg+0K
+0NhazFJoY9L4dMjsAzFSQXBzQs+W9vbYurkE0rZSWV34KnPpUeog+RXtNTknGHIP
+jQBp05eFyZeKiIkoGyrJCQu1iv3+TOzbE5rkJh0I+LtiQiCmdkd3YnSk++Lml4MI
+XMonKjIrbVL5k94enOvw3a/ci5gl79OVC978TTIz2xGUKVYZv8p8x6IjvnoB4boK
++nihM8iJ9rh7EONjaoYVJTeZdoyT8/9/6DMHnuLcmVV1j8QajgidwVDbeMcdzQJJ
+2KfhGOiUizFqO5WDMulOWTV7+TbJB+up7/z1UMqkLdAt+JuuryzaqN/7W61PBMrP
+tjOPeWk1QpGx2q4bZSi3zdvaytOeRz4YZOAWPN8be3OFtoe89gFrBPNr8NR3T05I
+5z1+JVmmjjsaoVNeVwGuJ/0ybQsG5PJyxyDUXTtV9EFsJuCYlBYBoJ6gT4RrAoPL
+8D6nYdXjacLtKHoIqXol+fK+o9jVDYs/ZU9jXSgNexelSQ==
+=pB/K
+-----END PGP SIGNATURE-----
