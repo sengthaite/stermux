@@ -6,7 +6,7 @@ Version: 1
 Architectures: all
 Description: termux repository
 Suite: termux
-Date: Mon, 20 Apr 2026 06:23:18 UTC
+Date: Mon, 20 Apr 2026 07:11:57 UTC
 Components: extras
 MD5Sum:
  23b22a61cbb33d9795cce79c9995212c 491 extras/binary-all/Packages
@@ -28,3 +28,17 @@ SHA512:
  1abab638eb461fe4997aa46cef020d9ff6be59e7620e11d2064aef7c24120a588fab6dca2b61d1a7d835020770101cebfd471b49d20eb15af00b990dc88473f8 444 extras/binary-all/Packages.xz
  3e60fdca6592233385fa384423cac4ba579a63191a967e53ad067e39d8fec1a7bdc3643fd61d93fb3d550867245ed17c457853d3456c8371d636f0ffeb428a1d 91 extras/Contents-all
  8a80d42a08a251908fd164dc25e8d62c755b4f16b7923cb64ab44ddc6bc52bf567c2016c6d91842d6caecfeb98d0724e977f0a62f8fd25c5b8319649068be317 128 extras/Contents-all.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQHPBAEBCAA5FiEEXMvQyvnnA4keacEXFb/t/MKj+owFAmnl0b0bFIAAAAAABAAO
+bWFudTIsMi41KzEuMTEsMywyAAoJEBW/7fzCo/qMLcMMAJcl7wh8LVt1kfi0Xl/Y
+GTxhpzVAhiXgtLHwoIqjYnzgZsqMcqjANC5kNTNR54wQhhOTJkTHn6RrvT7KBRvR
+4xxXv+B7n2ia534yC9df7yM85DxDrAVKgKzG80j1fZBFlwBEsDpwjXm4as7VbpG+
+5CsoiON3kHxykf5drZHQlsnfJ/RjgV8JmSUp8gSFb38fwzY6/FnYbSJK0tbYfmgv
+LUsJDbYukgffsQd54G4VYMUJS5oDakMwJ9MU2USBYtXNCKOPsytwOCzJDDcCL8Ih
+PsqiGD/bbK+XmAsgih9IobAOHFjoiIJMBIWjtF2N/dZkIaE8b23eI5sdEpUgH08R
+5J9qljhKdZ6fhYx5bIjkEecnu55gtbOmcKCn8VHWJ+EcDP+/cV3tgfU/aMYLTPVP
+W/xVFd+Am8lN8taHsjHqGPb6st7YPTI6K+SfqPSZ//3af0O0oIlSIHIQkOOPb19Z
+YxwNqGvfkw2b8V0uc5hDFBD9tPlGqhgywKfAOvZgyuJtwA==
+=AodU
+-----END PGP SIGNATURE-----
