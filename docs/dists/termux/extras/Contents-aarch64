@@ -5,6 +5,7 @@ data/data/com.termux/files/usr/lib/libFoundationEssentials.so                   
 data/data/com.termux/files/usr/lib/libFoundationInternationalization.so          docc
 data/data/com.termux/files/usr/lib/libFoundationNetworking.so                    docc
 data/data/com.termux/files/usr/lib/libFoundationXML.so                           docc
+data/data/com.termux/files/usr/lib/lib_FoundationICU.so                          docc
 data/data/com.termux/files/usr/lib/libc.so                                       docc
 data/data/com.termux/files/usr/lib/libdispatch.so                                docc
 data/data/com.termux/files/usr/lib/libdl.so                                      docc

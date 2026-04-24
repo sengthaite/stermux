@@ -9,9 +9,9 @@ Pre-Depends: libc++
 Description:
     Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
 Filename: dists/termux/extras/binary-aarch64/docc_1.0.0_aarch64.deb
-Size: 24136996
-MD5Sum: 7e43c5da8eb00ea9e4479a5a84eb28f7
-SHA1: c1857a303aef3d28fc896a143e3f554c6edd9586
-SHA256: 8e5d345b92e8f8117535c5d997124e9b7c256ed7b7388e34f5644052b7dfcb70
-SHA512: b1b2752217d1e23ea963cbeca4616ed6d2c4fa9d0f13cc07da81ff36c8796b0f837fe73bccfbf1a0d71e8ca9c7f0de5e8d27e9f3a12a8187b9ebfde03e9d3ff6
+Size: 33925556
+MD5Sum: b999cc3a8450fdcd3643e07e61ddf410
+SHA1: ffdbb7f029b2b30f98dbdb60ba17350d7d526349
+SHA256: c962cf55931ac840d7e289c88c4b9282964619c18948c5ae4e8b143d067cbab8
+SHA512: c0ef79872a96c1382f62c588b5118dc24ad52653044ba8e12035fad2114a83a722eb9b59442d6b575eebb71c5aa7687d20bcdb59dabff435a5096fea62ddffca
 
