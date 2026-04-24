@@ -1,24 +1,16 @@
-Package: hello-pkg
+Package: docc
+Package-Type: deb
 Version: 1.0.0
 Architecture: aarch64
 Maintainer: sengthaite@gmail.com
-Description: A hello world script
-Filename: dists/termux/extras/binary-aarch64/hi.deb
-Size: 824
-MD5Sum: 0198684e154fd7a4f5839800ea23a73c
-SHA1: 6342c8804e0e2667dc524811ec6dcbcf6a93534d
-SHA256: 634f18a69410a6c13cff951ff876ce0bcedc69c34ed1d3028e9bab338615e031
-SHA512: 1a15d897634351e33f8a82ade56733dfe53337b0de34c22425d7b8db5bda4e86d0053d3a911110b8fec1f507476fe6746debfe3b9ca3a62f14d358bec4cafd8f
-
-Package: stermux
-Version: 1.0.0
-Architecture: aarch64
-Maintainer: sengthaite@gmail.com
-Description: A hello world script
-Filename: dists/termux/extras/binary-aarch64/stermux.deb
-Size: 828
-MD5Sum: 24f2f53300f7ac6ce692085a5d73d775
-SHA1: cda48a5934ae83956ee5cd0acc3402cf0334d623
-SHA256: 47c40dbfc3f96f3a83e860982e3e697abb44207b336776ac006ee1865963c44c
-SHA512: eee14a2024b4999fd67b70e2f1f565610e9857b6c4ad62fca307be7a3297ce6a266bed0d833736a2af7b7e77605877fb9445d853c59e66c460f9becdc8f95b2e
+Section: utils
+Priority: optional
+Description:
+    Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
+Filename: dists/termux/extras/binary-aarch64/docc.deb
+Size: 16419152
+MD5Sum: c13b6279a27e7e5bd55a9b91022324b6
+SHA1: ed94fae3f61e9e6c7d7133877509329f3c39b8f7
+SHA256: fe51508878b86315f981d8f13c35192ef2780af2101ed9ea371772ac449d07a7
+SHA512: dfb366b1ab16ad195c07d3b85327112c2c413ad82515465d9d9313c6f90877d2518db4ffb11fda3cf6c2a6455e9b5bca5edb92d5a7431ca82287be4ffb526f2d
 

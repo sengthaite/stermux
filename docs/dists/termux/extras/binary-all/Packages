@@ -1,0 +1,15 @@
+Package: stermux
+Package-Type: deb
+Version: 1.0.0
+Architecture: all
+Maintainer: sengthaite@gmail.com
+Section: shells
+Priority: optional
+Description: A hello world script
+Filename: dists/termux/extras/binary-all/stermux.deb
+Size: 856
+MD5Sum: 5c37507ee91aff34e157cb46513db82c
+SHA1: 2b4971145f765afaac171b3af7b05240bcd172a7
+SHA256: a790f895bc7ea6d9a98c704c2dccf844b257dd121361d23e62f6804eccc15bea
+SHA512: 7372db96583594c45e3df5676ba9357a6daf9516405fefaad14199ab2f7717d40fbe74dce70d528ea110c12ee63c2be583880a0a0f4f7eb21c81f774fc683bd6
+
