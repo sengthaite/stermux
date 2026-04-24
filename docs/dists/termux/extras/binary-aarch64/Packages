@@ -5,12 +5,13 @@ Architecture: aarch64
 Maintainer: sengthaite@gmail.com
 Section: utils
 Priority: optional
+Pre-Depends: libc++
 Description:
     Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
 Filename: dists/termux/extras/binary-aarch64/docc_1.0.0_aarch64.deb
-Size: 24496396
-MD5Sum: 900ec3f0c25ae6407630ee2879b8a8a0
-SHA1: f5fd5246e0e562860fd60715ce6b6856f1632bb4
-SHA256: 4fdcfea18965dbb04b12b45272d69bab99c49b4d4ff9173aca834f2ef554465d
-SHA512: 414d11b9720214ad7fc1df2106d55f0f610057eb1935243c3005aa9fd434eea3c38f9ebf080f5d89f0c7809d35a4d307fbb4dc907a66a551f0d8ba68f64640e3
+Size: 24136996
+MD5Sum: 7e43c5da8eb00ea9e4479a5a84eb28f7
+SHA1: c1857a303aef3d28fc896a143e3f554c6edd9586
+SHA256: 8e5d345b92e8f8117535c5d997124e9b7c256ed7b7388e34f5644052b7dfcb70
+SHA512: b1b2752217d1e23ea963cbeca4616ed6d2c4fa9d0f13cc07da81ff36c8796b0f837fe73bccfbf1a0d71e8ca9c7f0de5e8d27e9f3a12a8187b9ebfde03e9d3ff6
 
