@@ -7,10 +7,10 @@ Section: utils
 Priority: optional
 Description:
     Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
-Filename: dists/termux/extras/binary-aarch64/docc.deb
-Size: 16419152
-MD5Sum: c13b6279a27e7e5bd55a9b91022324b6
-SHA1: ed94fae3f61e9e6c7d7133877509329f3c39b8f7
-SHA256: fe51508878b86315f981d8f13c35192ef2780af2101ed9ea371772ac449d07a7
-SHA512: dfb366b1ab16ad195c07d3b85327112c2c413ad82515465d9d9313c6f90877d2518db4ffb11fda3cf6c2a6455e9b5bca5edb92d5a7431ca82287be4ffb526f2d
+Filename: dists/termux/extras/binary-aarch64/docc_1.0.0_aarch64.deb
+Size: 46660432
+MD5Sum: f9ed1f69c38ed31a46b8d53bb408dc2b
+SHA1: e1942d215afe14b031fae4f91dd2e3258531cbdd
+SHA256: bf89bd86ddfa950b6addad98cd50dc2a0f6f253b20e11d37b6dbbdcef02b660a
+SHA512: e97feadea1010116df2aefedfb04f339a841185a8e37213c5d935f785359a28f7af39fde24443f74a9c9a6540101f8aa98a84961b79fb2cec6b347830940017e
 
