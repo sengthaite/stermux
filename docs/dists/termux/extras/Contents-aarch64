@@ -1,4 +1,5 @@
 data/data/com.termux/files/usr/bin/docc                                          docc
+data/data/com.termux/files/usr/lib/ld-android.so                                 docc
 data/data/com.termux/files/usr/lib/libBlocksRuntime.so                           docc
 data/data/com.termux/files/usr/lib/libFoundation.so                              docc
 data/data/com.termux/files/usr/lib/libFoundationEssentials.so                    docc
@@ -6,9 +7,14 @@ data/data/com.termux/files/usr/lib/libFoundationInternationalization.so         
 data/data/com.termux/files/usr/lib/libFoundationNetworking.so                    docc
 data/data/com.termux/files/usr/lib/libFoundationXML.so                           docc
 data/data/com.termux/files/usr/lib/lib_FoundationICU.so                          docc
+data/data/com.termux/files/usr/lib/libandroid-spawn.so                           docc
+data/data/com.termux/files/usr/lib/libc++.so                                     docc
 data/data/com.termux/files/usr/lib/libc.so                                       docc
 data/data/com.termux/files/usr/lib/libdispatch.so                                docc
 data/data/com.termux/files/usr/lib/libdl.so                                      docc
+data/data/com.termux/files/usr/lib/libicudata.so.78                              docc
+data/data/com.termux/files/usr/lib/libicuuc.so.78                                docc
+data/data/com.termux/files/usr/lib/liblog.so                                     docc
 data/data/com.termux/files/usr/lib/libm.so                                       docc
 data/data/com.termux/files/usr/lib/libswiftAndroid.so                            docc
 data/data/com.termux/files/usr/lib/libswiftCore.so                               docc
@@ -19,3 +25,4 @@ data/data/com.termux/files/usr/lib/libswift_Concurrency.so                      
 data/data/com.termux/files/usr/lib/libswift_RegexParser.so                       docc
 data/data/com.termux/files/usr/lib/libswift_StringProcessing.so                  docc
 data/data/com.termux/files/usr/lib/libswift_math.so                              docc
+data/data/com.termux/files/usr/lib/libxml2.so.16                                 docc
